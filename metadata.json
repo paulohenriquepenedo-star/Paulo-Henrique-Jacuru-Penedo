@@ -1,0 +1,8 @@
+{
+  "name": "Corretor360",
+  "description": "Plataforma SaaS mobile-first para corretores de imóveis com recomendações inteligentes via IA, gestão de leads e CRM integrado.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
